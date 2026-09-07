@@ -40,10 +40,14 @@ export const nav = {
 };
 
 export const hero = {
-  eyebrow: { ar: 'قصص بصرية للأزياء والعلامات التجارية', en: 'Visual stories for fashion & brands' },
   intro: {
     ar: 'مصور فوتوغرافي متخصص في صناعة القصص البصرية للأزياء والعلامات التجارية والأشخاص.',
-    en: 'Photographer specializing in creating visual stories for fashion, brands and people.',
+    en: 'Since 2017, I’ve been exploring photography as more than just a way of capturing images — I see it as a way of experiencing and understanding the world My journey began with Street Photography, where I learned to observe before I learned to capture. That experience shaped the way I work today: looking beyond the obvious, finding different angles, and noticing details that often go unseen.
+
+Emotion. Memory. Soul..
+
+
+',
   },
   ctaPrimary: { ar: 'استعرض الأعمال', en: 'View Selected Work' },
   ctaSecondary: { ar: 'تواصل مع إبراهيم', en: 'Contact Ibrahim' },
