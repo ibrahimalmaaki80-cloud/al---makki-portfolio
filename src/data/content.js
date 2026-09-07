@@ -85,21 +85,23 @@ export const workSection = {
 export const brands = [
   {
     id: 'brand-01',
-    name: 'Brand One', // [ADD BRAND LOGO / NAME]
-    logo: '/media/logo-brand-01.svg', // [ADD BRAND LOGO]
-    tagline: { ar: 'حملة أزياء / تصوير تحريري', en: 'Fashion campaign / Editorial photography' },
+    name: 'Coded', // [ADD BRAND LOGO / NAME]
+    logo: '/media/logo.webp', // [ADD BRAND LOGO]
+    tagline: { ar: 'براند محلي', en: 'Fashion campaign / local brand' },
     year: '2026',
     location: { ar: 'القاهرة، مصر', en: 'Cairo, Egypt' },
     role: { ar: 'مصور', en: 'Photographer' },
     description: {
-      ar: '[أضف وصف المشروع هنا]',
-      en: '[ADD PROJECT DESCRIPTION]',
+      ar: '[براند محلي متخصص في الفاشون]',
+      en: '[A local brand specializing in fashion]',
     },
     media: [
-      { type: 'image', src: '/media/brand-01-01.svg', alt: 'Brand One — campaign image 1' }, // [ADD PROJECT IMAGES]
-      { type: 'image', src: '/media/brand-01-02.svg', alt: 'Brand One — campaign image 2' },
-      { type: 'video', src: 'https://www.youtube.com/watch?v=REPLACE_ME', poster: '/media/brand-01-poster.svg' }, // [ADD VIDEO URL] (MP4, YouTube, or Vimeo link also accepted)
-      { type: 'image', src: '/media/brand-01-03.svg', alt: 'Brand One — campaign image 3' },
+      { type: 'image', src: '/media/1.webp', alt: 'Brand One — campaign image 1' }, // [ADD PROJECT IMAGES]
+      { type: 'image', src: '/media/2.webp', alt: 'Brand One — campaign image 2' },
+      { type: 'image', src: '/media/3.webp', alt: 'Brand One — campaign image 2' }, // [ADD VIDEO URL] (MP4, YouTube, or Vimeo link also accepted)
+      { type: 'image', src: '/media/4.webp', alt: 'Brand One — campaign image 2' },
+      { type: 'image', src: '/media/5.webp', alt: 'Brand One — campaign image 2' }, // [ADD VIDEO URL] (MP4, YouTube, or Vimeo link also accepted)
+// [ADD VIDEO URL] (MP4, YouTube, or Vimeo link also accepted)
     ],
   },
   {
