@@ -19,8 +19,8 @@
  */
 
 export const siteInfo = {
-  name: { ar: 'إبراهيم المكي', en: 'Ibrahim Al-Makki' },
-  shortName: { ar: 'المكي', en: 'AL-MAKKI' },
+  name: { ar: 'إبراهيم المكي', en: 'Ibrahim el-Makky' },
+  shortName: { ar: 'المكي', en: 'EL-MAKKY' },
   profession: { ar: 'مصور فوتوغرافي و مصور فيديو', en: 'Photographer & Videographer' },
   location: { ar: 'القاهرة، مصر', en: 'Cairo, Egypt' }, // [LOCATION]
   experienceYears: { ar: '+٩ سنوات خبرة', en: '9+ Years Experience' }, // [XX YEARS]
