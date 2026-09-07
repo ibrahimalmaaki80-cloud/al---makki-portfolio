@@ -23,11 +23,11 @@ export const siteInfo = {
   shortName: { ar: 'المكي', en: 'AL-MAKKI' },
   profession: { ar: 'مصور فوتوغرافي', en: 'Photographer' },
   location: { ar: 'القاهرة، مصر', en: 'Cairo, Egypt' }, // [LOCATION]
-  experienceYears: { ar: '+٨ سنوات خبرة', en: '8+ Years Experience' }, // [XX YEARS]
-  email: 'hello@almakki.example', // [EMAIL] — replace with real email
-  whatsapp: '+201000000000', // [WHATSAPP] — replace with real number, digits only after +
-  instagram: 'https://instagram.com/almakki.photo', // [INSTAGRAM URL]
-  behance: 'https://behance.net/almakki', // [BEHANCE URL]
+  experienceYears: { ar: '+٩ سنوات خبرة', en: '9+ Years Experience' }, // [XX YEARS]
+  email: 'ibrahimalmaaki80@gmail.com', // [EMAIL] — replace with real email
+  whatsapp: '+201144497062', // [WHATSAPP] — replace with real number, digits only after +
+  instagram: 'https://www.instagram.com/ibrahimalmakky', // [INSTAGRAM URL]
+  behance: 'https://www.behance.net/Ibtahimalmba60', // [BEHANCE URL]
   portraitImage: '/media/portrait-placeholder.svg', // [REPLACE WITH IBRAHIM'S PHOTO]
 };
 
