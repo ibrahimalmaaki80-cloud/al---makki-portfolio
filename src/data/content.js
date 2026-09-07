@@ -28,7 +28,7 @@ export const siteInfo = {
   whatsapp: '+201144497062', // [WHATSAPP] — replace with real number, digits only after +
   instagram: 'https://www.instagram.com/ibrahimalmakky', // [INSTAGRAM URL]
   behance: 'https://www.behance.net/Ibtahimalmba60', // [BEHANCE URL]
-  portraitImage: '/media/DSC_8269.png', // 
+  portraitImage: '/media/DSC_8269.png', 
 };
 
 export const nav = {
